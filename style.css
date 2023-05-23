@@ -78,6 +78,7 @@ button{
     border-radius: 5px;
     padding: 10px;
     margin: 10px;
+    cursor: pointer;
 }
 .nav{
     border: solid 0.5px rgba(255, 255, 255, 0.5);
